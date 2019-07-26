@@ -2,8 +2,9 @@
 public class GitExampleClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Start main");
+		//
+		System.out.println("Stop main");
 	}
 
 }
